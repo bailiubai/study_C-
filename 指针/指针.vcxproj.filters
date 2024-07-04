@@ -24,5 +24,17 @@
     <ClCompile Include="03空指针.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04 const修饰指针.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05 指针和数组.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 指针和函数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 指针数组函数案例.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

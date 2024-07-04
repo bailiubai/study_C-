@@ -130,6 +130,10 @@
     <ClCompile Include="01指针的定义.cpp" />
     <ClCompile Include="02指针所占用的内存空间.cpp" />
     <ClCompile Include="03空指针.cpp" />
+    <ClCompile Include="04 const修饰指针.cpp" />
+    <ClCompile Include="05 指针和数组.cpp" />
+    <ClCompile Include="06 指针和函数.cpp" />
+    <ClCompile Include="07 指针数组函数案例.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
